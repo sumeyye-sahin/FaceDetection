@@ -1,4 +1,4 @@
-import cv2 as cv
+import cv2 as cv #opencv2 kütüphanesini import ettim
 import numpy as np
 
 
